@@ -1,0 +1,7 @@
+{
+  "name": "Ramadan Mubarak Companion",
+  "description": "A festive and spiritual companion app for Ramadan, featuring personalized greeting generation, daily reflections, and prayer timing tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
